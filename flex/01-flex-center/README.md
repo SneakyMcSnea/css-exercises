@@ -7,6 +7,7 @@ All you need to do is center the red div inside the blue container.
 ![outcome](./desired-outcome.png)
 
 ### Self Check
-- Is the red div centered?
-- Did you _only_ use flexbox to center it?
+- Is the red div centered? y
+- Did you _only_ use flexbox to center it? y
 
+completed, 10/10, 28.10.23, Sne
